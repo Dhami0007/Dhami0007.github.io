@@ -8,7 +8,7 @@ This portfolio website serves as a virtual representation of my journey in compu
 
 ## Features
 
-- **Clean and Responsive Design:** The template from XYZ site provides a modern and visually appealing layout that adapts to various screen sizes.
+- **Clean and Responsive Design:** The template provides a modern and visually appealing layout that adapts to various screen sizes.
   
 - **Education and Experience:** Details about my academic background, including my specialization in computer science, and any relevant work experience or internships.
 
